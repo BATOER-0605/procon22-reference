@@ -8,3 +8,5 @@
 3 https://qiita.com/tags/%e9%9f%b3%e6%ba%90%e5%88%86%e9%9b%a2
 
 4 https://zenn.dev/kitchy/articles/459fd39c6b39e5
+
+5 https://ys0510.hatenablog.com/entry/single_separation_survey
